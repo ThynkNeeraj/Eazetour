@@ -30,7 +30,7 @@ const TravelItineraryTimeline = () => {
         '/images/1/5.jpeg',
         '/images/1/6.jpeg',
         '/images/1/7.jpeg',
-        '/images/1/8.jpeg'
+        '/images/1/8.jpeg',
         '/images/1/9.jpeg'
     ];
 
