@@ -435,6 +435,57 @@ import package_40_8 from "../public/images/40/8.jpg";
 import package_40_9 from "../public/images/40/9.jpg";
 import package_40_10 from "../public/images/40/10.jpg";
 import package_40_11 from "../public/images/40/11.jpg";
+import package_41_1 from "../public/images/41/1.jpg";
+import package_41_2 from "../public/images/41/2.jpg";
+import package_41_3 from "../public/images/41/3.jpg";
+import package_41_4 from "../public/images/41/4.jpg";
+import package_41_5 from "../public/images/41/5.jpg";
+import package_41_6 from "../public/images/41/6.jpg";
+import package_41_7 from "../public/images/41/7.jpg";
+import package_41_8 from "../public/images/41/8.jpg";
+import package_41_9 from "../public/images/41/9.jpg";
+import package_41_10 from "../public/images/41/10.jpg";
+import package_41_11 from "../public/images/41/11.jpg";
+import package_41_12 from "../public/images/41/12.jpg";
+import package_41_13 from "../public/images/41/13.jpg";
+import package_41_14 from "../public/images/41/14.jpg";
+import package_41_15 from "../public/images/41/15.jpg";
+import package_42_1 from "../public/images/42/1.jpg";
+import package_42_2 from "../public/images/42/2.jpg";
+import package_42_3 from "../public/images/42/3.jpg";
+import package_42_4 from "../public/images/42/4.jpg";
+import package_42_5 from "../public/images/42/5.jpg";
+import package_42_6 from "../public/images/42/6.jpg";
+import package_42_7 from "../public/images/42/7.jpg";
+import package_42_8 from "../public/images/42/8.jpg";
+import package_43_1 from "../public/images/43/1.jpg";
+import package_43_2 from "../public/images/43/2.jpg";
+import package_43_3 from "../public/images/43/3.jpg";
+import package_43_4 from "../public/images/43/4.jpg";
+import package_43_5 from "../public/images/43/5.jpg";
+import package_43_6 from "../public/images/43/6.jpg";
+import package_43_7 from "../public/images/43/7.jpg";
+import package_43_8 from "../public/images/43/8.jpg";
+import package_43_9 from "../public/images/43/9.jpg";
+import package_43_10 from "../public/images/43/10.jpg";
+import package_44_1 from "../public/images/44/1.jpg";
+import package_44_2 from "../public/images/44/2.jpg";
+import package_44_3 from "../public/images/44/3.jpg";
+import package_44_4 from "../public/images/44/4.jpg";
+import package_44_5 from "../public/images/44/5.jpg";
+import package_45_1 from "../public/images/45/1.jpg";
+import package_45_2 from "../public/images/45/2.jpg";
+import package_45_3 from "../public/images/45/3.jpeg";
+import package_45_4 from "../public/images/45/4.jpg";
+import package_45_5 from "../public/images/45/5.jpg";
+import package_46_1 from "../public/images/46/1.jpg";
+import package_46_2 from "../public/images/46/2.jpg";
+import package_46_3 from "../public/images/46/3.jpg";
+import package_46_4 from "../public/images/46/4.jpg";
+import package_46_5 from "../public/images/46/5.jpg";
+import package_46_6 from "../public/images/46/6.jpg";
+import package_46_7 from "../public/images/46/7.jpg";
+import package_46_8 from "../public/images/46/8.jpg";
 
 interface IPackageImageProp {
   source: number;
@@ -1036,6 +1087,87 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
       package_40_9,
       package_40_10,
       package_40_11,
+    ],
+  },
+  "41": {
+    main: package_41_1,
+    list: [
+      package_41_1,
+      package_41_2,
+      package_41_3,
+      package_41_4,
+      package_41_5,
+      package_41_6,
+      package_41_7,
+      package_41_8,
+      package_41_9,
+      package_41_10,
+      package_41_11,
+      package_41_12,
+      package_41_13,
+      package_41_14,
+      package_41_15,
+    ],
+  },
+  "42": {
+    main: package_42_5,
+    list: [
+      package_42_5,
+      package_42_7,
+      package_42_6,
+      package_42_1,
+      package_42_2,
+      package_42_3,
+      package_42_4,
+      package_42_8,
+    ],
+  },
+  "43": {
+    main: package_43_5,
+    list: [
+      package_43_5,
+      package_43_7,
+      package_43_6,
+      package_43_1,
+      package_43_2,
+      package_43_3,
+      package_43_4,
+      package_43_8,
+      package_43_9,
+      package_43_10,
+    ],
+  },
+  "44": {
+    main: package_44_5,
+    list: [
+      package_44_5,
+      package_44_4,
+      package_44_3,
+      package_44_1,
+      package_44_2,
+    ],
+  },
+  "45": {
+    main: package_45_2,
+    list: [
+      package_45_5,
+      package_45_4,
+      package_45_3,
+      package_45_1,
+      package_45_2,
+    ],
+  },
+  "46": {
+    main: package_46_2,
+    list: [
+      package_46_5,
+      package_46_4,
+      package_46_3,
+      package_46_1,
+      package_46_2,
+      package_46_6,
+      package_46_8,
+      package_46_7,
     ],
   },
 };
