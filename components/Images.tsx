@@ -601,7 +601,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "9": {
-    main: package_9_2,
+    main: package_9_8,
     list: [
       package_9_1,
       package_9_2,
@@ -708,7 +708,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "16": {
-    main: package_16_2,
+    main: package_16_1,
     list: [
       package_16_1,
       package_16_2,
@@ -721,7 +721,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "17": {
-    main: package_17_10,
+    main: package_17_1,
     list: [
       package_17_1,
       package_17_2,
@@ -754,7 +754,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "19": {
-    main: package_19_2,
+    main: package_19_7,
     list: [
       package_19_1,
       package_19_2,
@@ -783,7 +783,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "21": {
-    main: package_21_1,
+    main: package_21_2,
     list: [
       package_21_1,
       package_21_2,
@@ -821,7 +821,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "23": {
-    main: package_23_3,
+    main: package_23_13,
     list: [
       package_23_1,
       package_23_2,
@@ -841,7 +841,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "24": {
-    main: package_24_4,
+    main: package_24_10,
     list: [
       package_24_1,
       package_24_2,
@@ -858,7 +858,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "25": {
-    main: package_25_2,
+    main: package_25_10,
     list: [
       package_25_1,
       package_25_2,
@@ -914,7 +914,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "28": {
-    main: package_28_3,
+    main: package_28_1,
     list: [
       package_28_1,
       package_28_2,
@@ -947,7 +947,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "30": {
-    main: package_30_1,
+    main: package_30_10,
     list: [
       package_30_1,
       package_30_2,
@@ -966,7 +966,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     list: [package_31_1, package_31_2, package_31_3, package_31_4, package_31_5, package_31_6],
   },
   "32": {
-    main: package_32_1,
+    main: package_32_17,
     list: [
       package_32_1,
       package_32_2,
@@ -1038,7 +1038,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "37": {
-    main: package_37_1,
+    main: package_37_9,
     list: [
       package_37_1,
       package_37_2,
@@ -1074,7 +1074,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     list: [package_39_1, package_39_2, package_39_3, package_39_4, package_39_5],
   },
   "40": {
-    main: package_40_1,
+    main: package_40_9,
     list: [
       package_40_1,
       package_40_2,
