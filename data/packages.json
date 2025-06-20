@@ -7774,5 +7774,1009 @@
       "Amber Fort, Jaipur",
       "Humayun's Tomb, Delhi"
     ]
+  },
+  {
+    "Id": 41,
+    "Days": 15,
+    "DurationDisplay": "14 NIGHTS /15 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrive Kathmandu.",
+        "Description": [
+          "Arrive in Kathmandu on Day 01, where you’ll be warmly welcomed with traditional flower garlands at Tribhuvan International Airport. After a smooth airport pickup, you'll be transferred to your hotel in the heart of the city. Once checked in, take some time to relax and settle in. The afternoon is free for orientation—explore the nearby markets, get familiar with the local culture, or simply unwind after your journey. It's the perfect start to your Himalayan adventure. Enjoy your first overnight stay in Kathmandu, surrounded by the vibrant energy, colorful traditions, and spiritual charm of Nepal’s capital city."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "KATHMANDU / LUKLA / PHAKDING • 8,700 feet",
+        "Description": [
+          "Day 02 begins with an exhilarating flight on a twin-engine Otter to Lukla, offering breathtaking views of terraced hills and the towering Himalayan peaks. Upon landing in Lukla at 9,350 feet, we meet the rest of our trekking crew and begin our hike into the heart of the Khumbu region. The trail winds through picturesque villages and along the Dudh Koshi River as we make our way to Phakding, situated at 8,700 feet. The trek takes about two and a half hours. In Phakding, we reunite with trekkers from the Jiri extension. This is the official start of our Everest Base Camp trek itinerary, designed to gradually acclimatize as we journey toward the world’s highest peak. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "NAMCHE BAZAAR • 11,300 feet",
+        "Description": [
+          "Our trek continues along the banks of the Dudh Kosi River, crossing several thrilling suspension bridges adorned with colorful prayer flags. The trail offers a blend of natural beauty and cultural charm as we pass through pine forests and small Sherpa settlements. After entering Sagarmatha National Park, the path ascends steeply through a series of switchbacks, revealing breathtaking views of the surrounding peaks. The climb is challenging but rewarding as we arrive at Namche Bazaar, a vibrant Sherpa town and the gateway to the Khumbu region, located at 11,300 feet. The ebc trek package ensures we have ample rest and exploration time in this iconic town. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Rest Day & Exploration in Namche Bazaar",
+        "Description": [
+          "Today is a rest and acclimatization day in the vibrant village of Namche Bazaar. Surrounded by stunning Himalayan scenery, Namche offers colorful shops, lively markets, and delicious local cuisine. In the early morning, a short hike above the village rewards us with a breathtaking sunrise and panoramic views of Mt. Everest, Lhotse—the world’s fourth highest peak—and the striking Ama Dablam. On our return, we visit the Sherpa Museum, which showcases traditional Sherpa culture and an impressive photography exhibit by a local naturalist. The museum also honors Sherpa climbers and their legendary mountaineering achievements. This day is a key part of our Everest Base Camp trek itinerary for proper altitude adaptation. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "Trek to Thyangboche • 12,887 feet",
+        "Description": [
+          "Today’s trek follows the glacial waters of the Dudh Kosi, offering breathtaking views of Himalayan giants like Everest, Lhotse, and Ama Dablam. The trail ascends through forests of rhododendron and fir, passing picturesque villages and prayer wheels that spin with the mountain wind. By afternoon, we reach the serene hilltop of Thyangboche, home to the region’s most revered monastery. Nestled at 12,887 feet, this spiritual center features richly decorated walls, a towering 20-foot Buddha statue, and the sacred instruments of the resident Lamas. This spiritual stop adds a rich cultural layer to our ebc trek package. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      },
+      {
+        "Name": "DINGBOCHE • 14,250 feet",
+        "Description": [
+          "Leaving Thyangboche, we descend through peaceful forests to Debuche and cross a thrilling suspension bridge over the Imja Khola. The trail then climbs steadily to Pangboche, where thousands of intricately carved mani stones line the path, adding spiritual charm to the journey. As we continue ascending, the landscape becomes more alpine, opening up to breathtaking vistas. We arrive in the traditional Sherpa village of Dingboche, nestled at 14,250 feet, surrounded by dramatic views of Lhotse, Island Peak, and the elegant Ama Dablam. The Everest Base Camp trek package includes an overnight here for acclimatization. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/6.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 6,
+        "Day": "6"
+      },
+      {
+        "Name": "dzongla • 15,075 feet",
+        "Description": [
+          "Today’s trek begins with a scenic walk from Dingboche, passing through farmlands and alpine meadows, offering wide-open views of the surrounding Himalayan peaks. The trail gradually ascends along the lateral moraine of the Khumbu Glacier, revealing the raw beauty of the high alpine landscape. After a steady climb, we arrive at Dzongla, situated at 15,075 feet. This shorter day allows ample time to rest and acclimatize, helping our bodies adjust to the increasing altitude. The Everest Base Camp trek packages are thoughtfully planned with gradual climbs for altitude safety. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/7.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 7,
+        "Day": "7"
+      },
+      {
+        "Name": "LOBUCHE • 16,175 feet",
+        "Description": [
+          "Today’s trek continues along the lateral moraine of the Khumbu Glacier, offering dramatic views of the rugged terrain and snow-capped peaks. Along the way, we pass somber stone memorials dedicated to climbers who lost their lives on nearby summits—a poignant reminder of the mountain’s power and allure. The trail steadily ascends through rocky landscapes and alpine wilderness until we reach Lobuche, situated at 16,175 feet. Here, we set up camp just below the terminal moraine of a tributary glacier, surrounded by towering Himalayan giants and the raw beauty of the high-altitude environment. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/8.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 8,
+        "Day": "8"
+      },
+      {
+        "Name": "GORAK SHEP • 17,000 feet",
+        "Description": [
+          "We begin the day with an early morning ascent of Kala Pattar, rising to 18,450 feet, where we’re rewarded with one of the most iconic panoramic views in the world. From the summit, take in unforgettable vistas of Everest, Nuptse, Pumori, and other towering peaks—offering a breathtaking experience without needing to climb Everest itself. After taking time to absorb the views and capture photos, we descend to Gorak Shep, located at 17,000 feet. Nestled beneath Kala Pattar, this high-altitude settlement is where we set up camp for the night. This is a key point in our Everest Base Camp trek itinerary. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/9.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 9,
+        "Day": "9"
+      },
+      {
+        "Name": "EVEREST BASE CAMP • 17,575 feet",
+        "Description": [
+          "Today marks a major highlight of the journey as we trek to the legendary Everest Base Camp, situated at 17,575 feet at the foot of the Khumbu Icefall. If weather conditions prevented the Kala Pattar climb yesterday, we’ll have a second chance this morning to summit and enjoy its world-class views. The route to Base Camp winds through rocky terrain and glacier moraine, offering dramatic scenery all around. Upon arrival, we spend time exploring this iconic site—surrounded by prayer flags, expedition tents, and towering peaks—soaking in the history and energy of the world’s highest mountain. A must-see on all Everest Base Camp trek packages. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/10.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 10,
+        "Day": "10"
+      },
+      {
+        "Name": "PHERICHE • 13,950 feet",
+        "Description": [
+          "Today we begin our descent from the high alpine zone, heading down the glacier and gradually reentering the lush valleys of the lower Khumbu. The trail offers stunning views of snow-capped peaks, now seen from a fresh perspective as we descend through rocky landscapes and open meadows. Upon reaching the village of Pheriche, situated at 13,950 feet, we take time to visit the Himalayan Rescue Association's Trekker's Aid Post—a vital resource for trekkers and mountaineers in the region. It's a rewarding and informative stop on our journey back through the heart of the Himalayas. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/11.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 11,
+        "Day": "11"
+      },
+      {
+        "Name": "NAMCHE BAZAAR • 11,300 feet",
+        "Description": [
+          "Today’s trek leads us back along the banks of the Dudh Kosi River, winding through a spectacular rhododendron forest and past cascading waterfalls that sparkle in the mountain light. As we near Namche, the trail passes through serene pine forests, where we may spot musk deer grazing in the early morning calm. Upon arrival in Namche Bazaar, the lively energy returns—especially if it coincides with market time, when lowland porters, highland Sherpas, and Tibetan traders gather to exchange goods. It’s a perfect blend of natural beauty and cultural richness as we settle in for the night. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/12.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 12,
+        "Day": "12"
+      },
+      {
+        "Name": "LUKLA • 9,350 feet",
+        "Description": [
+          "Today marks the final day of trekking as we make our way from Namche Bazaar back to Lukla. The trail descends steeply at times, winding through pine forests, crossing high suspension bridges, and passing charming mountain villages one last time. It’s a day of reflection and celebration, with plenty of opportunities to take in the familiar sights of the Khumbu region. Upon reaching Lukla, we enjoy our final evening in the mountains, sharing memories with our trekking team and preparing for tomorrow’s flight back to Kathmandu. (B, L, D)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/13.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 13,
+        "Day": "13"
+      },
+      {
+        "Name": "KATHMANDU • 4,383 feet",
+        "Description": [
+          "If the weather is clear, we take a scenic morning flight from Lukla back to Kathmandu, offering one last breathtaking glimpse of the Himalayan peaks. The short but memorable journey marks a smooth and symbolic farewell to the mountains. Upon arrival in Kathmandu, we transfer to our hotel and enjoy a well-deserved rest. The remainder of the day is free to relax, explore the city’s vibrant streets, shop for souvenirs, or revisit some of its cultural landmarks. Spend your final night in Nepal reflecting on the incredible journey through the heart of the Himalayas. (B)"
+        ],
+        "Images": [
+          {
+            "src": "/images/41/14.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 14,
+        "Day": "14"
+      },
+      {
+        "Name": "DEPARTURE",
+        "Description": [
+          "Enjoy some free time in Kathmandu for last-minute shopping, a leisurely breakfast, or quiet reflection before your journey home. At the scheduled time, you will be transferred to Tribhuvan International Airport for your onward flight. We bid you a heartfelt farewell, carrying with you unforgettable memories of the Himalayas, Sherpa hospitality, and the spirit of adventure."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/15.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 15,
+        "Day": "15"
+      },
+      {
+        "Name": "(B)  Mountain Flight ",
+        "Description": [
+          "Mountain flight take off from Kathmandu in the early morning for an hour’s worth of spectacular mountain scenery. As the aircraft lifts up and heads towards the east, passengers don’t have to wait too long to find out what is in store for them. There they are – the mountains, as they always have been. First to their far left visitors see Gosaithan, also called Shisha Pangma, Standing at the majestic height of 8,013 m. Immediately to the right of Gosaithan, there appears Dorje Lakpa (6,966 m), a mountain that looks like the number 8 lying down and covered with snow. To the right of Dorje Lakpa is Phurbi-Ghyachu, which looms over the Kathmandu Valley. As the plane moves along, the mountains come closer and closer. Next on the vision is Choba-Bhamare, the smallest one of the lot at 5,933 m but singularly stubborn as it has never been climbed. Then appears the mountain that is not only prominent in sight but also in spiritually – Gauri-Shankar. Lord Shiva and his consort Gauri are said to protect this mountain, at the proud height of 7,134 m and the summit had a history of unsuccessful attempts till 1979.Gauri-Shankar is sharp and very conspicuous during the mountain flight. As the plane moves towards the land of the rising sun, the eastern Himalaya a succession of glorious mountains follows. Melungtse, a Plateau – like mountain stretches up to 7,023 m, Chugimago at 6,297 m is still a virgin, waiting to be climbed. At 6,956 m, Numbur Mountain resembles a breast, maternal source in the sky providing pure milk to the Shepas of the Solu Khumbu. Next is Karyolung, an intensely white mountain that at 6,511 m gleams with the rising sun. Cho-Oyu is the eighth highest mountain in the world. Reaching a height of 8,201 m, it appears stunningly beautiful from the aircraft. Next on the menu is Gyanchungkang, at a majestic height of 7,952 m, considered an extremely difficult climb. To the right of Gyanchungkang is Pumori (7,161m). As passengers get closer to Everest, there's Nuptse (7,855 m), which means West Peak, signifying its direction from Everest. Finally, there’s Everest (8,848m) itself, known as Sagarmatha by the Nepalese and Chomolungma by the Tibetans. Much has already been written about Everest, but to actually witness it face to face during a mountain flight is something else. Even while it looms therein front of the eyes, it remains and enigma, this highest spot on earth."
+        ],
+        "Id": 16,
+        "Day": ""
+      }
+    ],
+    "Name": "Everest Base Camp Trek Package – 15 Days EBC Itinerary",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "everest-base-camp-trek",
+    "Title": "Everest Base Camp Trek Package – 15 Days EBC Itinerary",
+    "Description": "Explore Everest Base Camp with our 15-day trek package. Detailed EBC trek itinerary, scenic routes & Sherpa culture. Book your Everest Base Camp adventure today!",
+    "NoOfRatings": 20,
+    "Summary": "Walk among legends on the iconic Everest Base Camp Trek—an unforgettable journey into the heart of the Himalayas. Perfect for trekkers, adventurers, and mountain lovers, this expedition takes you from the bustling streets of Kathmandu to the serene glaciers beneath the world’s highest peak. With panoramic views, Sherpa culture, and the thrill of high-altitude trekking, every step brings you closer to nature’s raw power and beauty. Discover more Himalayan adventures on our Nepal Tour Packages page or browse a variety of high-altitude expeditions at All India Tour Packages.",
+    "Overview": "Mount Everest towers above the Khumbu at over 29,000 feet and is perhaps the most iconic symbol of challenge and adventure on Earth. On our classic Everest Base Camp trek package, follow in the footsteps of legends as we ascend from verdant Lukla to the vast glaciers and razor-sharp ridgelines of the Everest Himalayas—home to the world's highest peaks. At Base Camp, stand face-to-face with the fabled Khumbu Icefall and its towering seracs. Hike to the summit of Kala Patar, at over 18,100 feet, for an unobstructed view of Everest's windblown summit, trailing a seemingly perpetual banner of cloud and snow. For well over two decades, our expert local staff have traveled the footpaths of the Everest region with REI members—providing insider perspectives, preparing fresh meals, and handling every detail of our camping and trekking needs. This EBC trek package begins and ends in Kathmandu, where opportunities abound to explore UNESCO World Heritage sites and discover the colorful traditions of both Buddhism and Hinduism.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 42,
+    "Days": 8,
+    "DurationDisplay": "7 NIGHTS /8 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrival in Kathmandu & Traditional Welcome",
+        "Description": [
+          "Upon arrival at Tribhuvan International Airport in Kathmandu, you will be warmly welcomed with traditional flower garlands by an Eaze Tours representative. A private vehicle will transfer you to your hotel, where you can relax and settle in after your journey. In the evening, enjoy a delightful Gala Nepali Dinner featuring authentic local cuisine and traditional drinks. The evening is brought to life with captivating cultural folk dance performances, offering you a vibrant introduction to Nepal’s heritage. This memorable start sets the tone for your Nepal travel itinerary. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Kathmandu Sightseeing – Culture & Spirituality",
+        "Description": [
+          "After breakfast, begin a guided tour of Kathmandu, the historic “City of Glory.” Visit key landmarks including Kumari Ghar (home of the Living Goddess), Kasthamandap, Kal Bhairab, and the Big Bell. Next, explore Swayambhunath Stupa, a sacred Buddhist site perched on a hill with stunning valley views. After lunch at a local restaurant, visit Pashupatinath Temple, Nepal’s holiest Hindu shrine dedicated to Lord Shiva, followed by Boudhanath Stupa, one of the largest and most magnificent Buddhist stupas in the world. Return to your hotel after a spiritually enriching day. Overnight stay in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Journey to Chitwan – Into the Wild",
+        "Description": [
+          "After an early breakfast, depart Kathmandu for a scenic drive to Royal Chitwan National Park, a UNESCO World Heritage Site renowned for its rich biodiversity. This part of the Kathmandu Chitwan Pokhara tour immerses you in Nepal’s diverse natural landscape. Upon arrival, check into your jungle resort and receive a briefing on the upcoming activities. Enjoy lunch at the resort, followed by an afternoon nature walk and a peaceful boat ride through the park’s serene waterways. In the evening, savour a delicious dinner and experience a lively Tharu cultural performance featuring traditional stick dancing. The day ends with an overnight stay at the resort, surrounded by the sounds of the jungle."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Wildlife Adventures in Chitwan",
+        "Description": [
+          "Start your day early with a wake-up call at 5:30 a.m., followed by tea or coffee. At 6:00 a.m., set out on a birdwatching and jungle walk to experience the park’s morning wilderness. After breakfast at 8:00 a.m., enjoy a guided crocodile walk through grasslands and forests, leading to a serene boat ride on the Narayani River for crocodile sightings. Following lunch at 1:00 p.m., your afternoon includes an exciting elephant safari, jungle walk, observation tower visit, or nature walk with a boat ride. The day ends with dinner at 8:00 p.m. and an overnight stay at the resort—another highlight of your Nepal tours and travels experience."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "From Jungle to Mountains – Chitwan to Pokhara",
+        "Description": [
+          "Begin your day early with a 5:30 a.m. wake-up call, followed by tea or coffee. At 6:00 a.m., set out for a refreshing birdwatching session or jungle walk. After breakfast at 8:00 a.m., depart Chitwan at 9:30 a.m. for a scenic drive to Pokhara, a picturesque valley famed for its natural beauty. This segment of your Nepal travel itinerary brings you from the jungles of Chitwan to the serene lakes of Pokhara. En route, stop for lunch at a quality local restaurant. Upon arrival, check in at your hotel. Pokhara’s tropical charm, serene lakes, and majestic Himalayan backdrop offer a tranquil contrast to Chitwan’s wild landscapes. Enjoy dinner and an overnight stay in Pokhara."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      },
+      {
+        "Name": "Cultural Sights & Lake Serenity in Pokhara",
+        "Description": [
+          "After breakfast, begin your day exploring Pokhara’s rich trading heritage, where mountain traders and decorated pony caravans once filled the bustling bazaar. Visit the sacred Bindhyabasini Temple, a revered site for Hindu worshippers, followed by the Butterfly Museum, located within the university grounds and showcasing Nepal’s vibrant biodiversity. In the late afternoon, enjoy a serene boat ride on Phewa Lake, gliding past the King’s winter residence. Stop at the Varahi Temple, a peaceful golden shrine on a small island, frequented by pilgrims in traditional canoes. Enjoy lunch at a top local restaurant. Dinner and overnight at your Pokhara hotel."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/6.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 6,
+        "Day": "6"
+      },
+      {
+        "Name": "Return to Kathmandu – By Road or Optional Flight",
+        "Description": [
+          "After breakfast, begin your journey back to Kathmandu with a scenic drive that takes approximately 5–6 hours through Nepal’s lush hills and charming villages. For a quicker option, you may choose a 25-minute flight from Pokhara to Kathmandu at an additional cost. Upon arrival, check in to your hotel and enjoy some leisure time. In the evening, savor a farewell dinner featuring local cuisine, reflecting on the unforgettable memories of your Kathmandu Chitwan Pokhara tour. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/7.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 7,
+        "Day": "7"
+      },
+      {
+        "Name": "Departure from Kathmandu",
+        "Description": [
+          "Enjoy your final breakfast at the hotel. The rest of the day is free for leisure, last-minute shopping, or simply relaxing until your scheduled transfer to Tribhuvan International Airport for your onward journey. We hope your time in Nepal has been enriching and memorable."
+        ],
+        "Images": [
+          {
+            "src": "/images/41/8.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 8,
+        "Day": "8"
+      }
+    ],
+    "Name": "DISCOVER NEPAL TOUR –  Kathmandu,Chitwan and Pokhara - 7 Nights 8 Days",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "nepal-travel-itinerary-kathmandu",
+    "Title": "Nepal Travel Itinerary – Kathmandu, Chitwan & Pokhara Tour",
+    "Description": "Explore Nepal with our 7 Nights/8 Days Kathmandu, Chitwan & Pokhara tour. A perfect Nepal travel itinerary blending culture, wildlife & Himalayan beauty.",
+    "NoOfRatings": 20,
+    "Summary": "Experience the soul of the Himalayas with our 7 Nights/8 Days Nepal travel itinerary. Whether you're looking for ancient temples, wildlife adventures, or mountain serenity, this itinerary delivers it all. Ideal for travelers from the USA, UK, Europe, and beyond. Looking to extend your holiday? Don’t miss our Bhutan Tour Package for Himalayan mystique or relax by the sea with our Sri Lanka Tour Package. Let Eaze Tours take you beyond Nepal to Asia’s most inspiring destinations.",
+    "Overview": "Uncover the charm of Nepal with our Discover Nepal Tour Package, a beautifully crafted Nepal travel itinerary through Kathmandu’s cultural wonders, Chitwan’s vibrant wildlife, and Pokhara’s tranquil lakes and Himalayan views. Perfect for couples, families, or solo explorers, this Kathmandu Chitwan Pokhara tour is a popular choice among travelers seeking Nepal tours and travels experiences that blend spirituality, adventure, and natural beauty. From UNESCO World Heritage Sites to jungle safaris and serene boat rides, Nepal offers something for every kind of traveler—and makes a great starting point for tours to India and Nepal.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 43,
+    "Days": 10,
+    "DurationDisplay": "9 NIGHTS /10 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrival in Kathmandu & Traditional Welcome",
+        "Description": [
+          "Upon arrival at Tribhuvan International Airport in Kathmandu, you will be warmly welcomed with traditional flower garlands by an Eaze Tours representative. You’ll be transferred to your hotel in a private vehicle, where you can relax and settle in after your journey. In the evening, experience an authentic Nepali welcome with a Gala Dinner featuring traditional cuisine and local drinks. Enjoy a vibrant cultural folk dance performance, offering a lively and colorful glimpse into Nepal’s rich heritage. This cultural evening sets the perfect tone for your Nepal trip package. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Spiritual & Cultural Tour of Kathmandu",
+        "Description": [
+          "After breakfast, begin your exploration of Kathmandu, often called the “City of Glory.” Visit historic sites including Kumari Ghar, home of the Living Goddess, Kasthamandap, Kal Bhairab, and the Big Bell. Next, head to Swayambhunath Stupa, a sacred Buddhist site perched atop a hill, offering sweeping views of the valley. After lunch at a quality local restaurant, visit Pashupatinath Temple, Nepal’s holiest Hindu temple on the banks of the Bagmati River, followed by Boudhanath Stupa, one of the world’s largest and most striking Buddhist stupas. Return to your hotel. Overnight stay in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Journey to Chitwan – Into the Wild",
+        "Description": [
+          "After an early breakfast at the hotel, depart at 7:00 a.m. for a scenic 4–5 hour drive to Royal Chitwan National Park, one of Asia’s best-preserved wildlife sanctuaries. Home to the rare one-horned rhinoceros, Royal Bengal tigers, sloth bears, leopards, various deer species, and over 400 exotic bird species, the park offers an unforgettable jungle experience. This part of your Nepal classic tour brings you close to nature and wildlife. Upon arrival, check in at the resort and attend a briefing on park activities. Enjoy lunch at 1:00 p.m., followed by a nature walk and boat ride at 3:30 p.m. In the evening, savour dinner and enjoy a traditional Tharu stick dance."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Wildlife Encounters in Chitwan National Park",
+        "Description": [
+          "Begin your day early with a 5:30 a.m. wake-up call and a warm cup of tea or coffee. At 6:00 a.m., set out for a thrilling morning of wildlife activities—choose between bird watching, an elephant safari, or a guided jungle walk. Return for breakfast at 8:00 a.m., followed by a crocodile walk at 9:30 a.m., which includes a scenic 45-minute trek through grassland and forest to the Narayani River and a relaxing boat ride back. After lunch at 1:00 p.m., enjoy an afternoon jungle walk, visit an observation tower, or take a nature walk with a boat ride. Dinner at 8:00 p.m. and overnight at the resort."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "From Chitwan to Pokhara – Nature & Heritage",
+        "Description": [
+          "Start your day with a 5:30 a.m. wake-up call and tea or coffee, followed by early morning bird watching or a refreshing jungle walk at 6:00 a.m. After breakfast at 8:00 a.m., depart Chitwan at 9:30 a.m. for a scenic four-hour drive to Pokhara, a serene valley renowned for its natural beauty and stunning Himalayan views. As part of this all-inclusive Nepal tourism package, you’ll enjoy a journey filled with lush forests and rivers. En route, enjoy lunch at a quality local restaurant. On arrival, check in at your hotel. Surrounded by forests, rivers, and lakes, Pokhara offers a tropical ambiance, rich cultural history, and breathtaking views of Machhapuchhre and the Annapurna range. Overnight stay in Pokhara."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      },
+      {
+        "Name": "Exploring the Charms of Pokhara",
+        "Description": [
+          "After breakfast, begin your day with a visit to Pokhara’s traditional bazaar, once a bustling trading hub for decorated pony caravans from the Kali Gandaki region. Explore the vibrant market atmosphere where mountain traders still barter their goods. Visit the sacred Bindhyabasini Temple, a revered site for locals, followed by the Butterfly Museum, showcasing Nepal’s rich biodiversity. In the late afternoon, enjoy a tranquil boat ride on Phewa Lake, passing the royal family’s winter residence. Stop at the island-based Varahi Temple, a golden shrine nestled in greenery. Enjoy lunch at a lakeside restaurant. Overnight stay in Pokhara."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/6.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 6,
+        "Day": "6"
+      },
+      {
+        "Name": "Drive to Lumbini – The Birthplace of Lord Buddha",
+        "Description": [
+          "After breakfast, depart Pokhara for a scenic 5–6 hour drive to Lumbini, the sacred birthplace of Lord Buddha. Located in the Kapilvastu district of Nepal’s western Terai region, Lumbini is a deeply spiritual destination and a UNESCO World Heritage Site. The journey covers approximately 250 kilometers, offering views of lush lowlands, terraced farms, and traditional villages. This spiritual stop makes the Nepal holiday package even more fulfilling. Upon arrival, check in to your hotel and spend the rest of the day at leisure. Overnight stay at hotel in Lumbini."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/7.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 7,
+        "Day": "7"
+      },
+      {
+        "Name": "Discover the Sacred Sites of Lumbini",
+        "Description": [
+          "After breakfast, explore the sacred grounds of Lumbini, the birthplace of Lord Buddha and a UNESCO World Heritage Site. Begin with a visit to the Maya Devi Temple, which marks the exact spot where Queen Maya Devi gave birth to Siddhartha Gautama. Nearby, see the sacred pond and the historic Ashoka Pillar, built by Emperor Ashoka in 250 B.C. to honor the site. Stroll through peaceful monastic zones representing Buddhist traditions from around the world. Enjoy lunch during the excursion. Return to your hotel for dinner and relaxation. Overnight stay at the hotel in Lumbini."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/8.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 8,
+        "Day": "8"
+      },
+      {
+        "Name": "Fly Back to Kathmandu from Lumbini",
+        "Description": [
+          "After breakfast at the hotel, you will be transferred to the airport for your flight back to Kathmandu. Enjoy a short and scenic aerial journey over Nepal’s beautiful landscape. Upon arrival in Kathmandu, our representative will receive you and assist with the transfer to your hotel. The remainder of the day is at leisure—explore nearby markets, relax at your hotel, or take an optional city stroll. This final leg rounds off your comprehensive Nepal trip package."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/9.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 9,
+        "Day": "9"
+      },
+      {
+        "Name": "Departure from Kathmandu – Farewell Nepal",
+        "Description": [
+          "Enjoy your final breakfast at the hotel. The rest of the day is free until your scheduled transfer to Tribhuvan International Airport for your onward journey. Take this time to reflect on your incredible journey through Nepal’s rich culture, spirituality, and natural beauty. We wish you a safe and pleasant journey."
+        ],
+        "Images": [
+          {
+            "src": "/images/43/10.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 10,
+        "Day": "10"
+      }
+    ],
+    "Name": "Nepal Classic Tour 9 Nights 10 Days Kathmandu/Chitwan/Pokhara/Lumbini Tour",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "kathmandu-chitwan-pokhara-tour",
+    "Title": "Nepal Classic Tour – 10 Days Nepal Travel Package",
+    "Description": "Explore Nepal with our 10-day Nepal Classic Tour. A perfect Nepal travel package covering Kathmandu, Chitwan, Pokhara & Lumbini. Book your trip today!",
+    "NoOfRatings": 20,
+    "Summary": "Experience Nepal like never before—from the bustling streets of Kathmandu to the peaceful jungles of Chitwan and the serene sacred grounds of Lumbini. With Eaze Tours’ Nepal Classic Tour Package, every moment is thoughtfully planned for an unforgettable adventure. Whether you're booking a Nepal tourism package or one of our exclusive Nepal travel packages, we ensure an experience tailored for lasting memories. Want more global explorations? Check out our international travel packages to Sri Lanka, Bhutan, and beyond.",
+    "Overview": "Discover Nepal’s vibrant culture, wild landscapes, and spiritual heritage with Eaze Tours’ 9 Nights & 10 Days Nepal Classic Tour, one of our most popular Nepal travel packages. From a warm traditional welcome in Kathmandu to jungle safaris in Chitwan, serene lakes in Pokhara, and sacred sites in Lumbini, this Nepal tourism package blends adventure, culture, and relaxation. Highlights include guided visits to UNESCO sites, boat rides, scenic drives, and immersive cultural experiences—perfect for families, nature lovers, and spiritual seekers looking for a well-rounded Nepal holiday package.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 44,
+    "Days": 5,
+    "DurationDisplay": "4 NIGHTS /5 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrival in Kathmandu",
+        "Description": [
+          "Your unforgettable Nepal adventure begins the moment you touch down in Kathmandu. An Eaze Tours representative will extend a warm Nepalese welcome, greeting you at the airport with a traditional flower garland. This thoughtful gesture symbolizes hospitality and good fortune, immediately immersing you in the local culture. From there, you'll enjoy a comfortable transfer to your hotel, allowing you to settle in and unwind after your journey. The remainder of your first day is at leisure, offering time to relax and anticipate the exciting discoveries ahead in this vibrant city. You'll spend your first night at your hotel in Kathmandu, ready for the explorations to come."
+        ],
+        "Images": [
+          {
+            "src": "/images/44/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Heritage Exploration of Kathmandu & Patan",
+        "Description": [
+          "Begin your day with a delicious breakfast at the hotel before diving into Kathmandu’s rich cultural heritage. The morning features a half-day tour of the “City of Glory,” visiting Durbar Square, Kasthamandap, Kumari Ghar (home to the Living Goddess), Kal Bhairab, and the sacred Taleju Temple. Later, head to Swoyambhunath Stupa, one of the world’s oldest Buddhist sites, perched on a hill with panoramic views—famously known as the 'Monkey Temple.' In the afternoon, explore Patan’s Durbar Square, Golden Gate, Krishna Temple, Hiranya Varna Mahavihar, and the Thousand Buddha Temple. This immersive experience defines what a cultural tour Nepal truly offers. Overnight stay in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/44/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Bhaktapur Heritage Tour & Scenic Drive to Dhulikhel",
+        "Description": [
+          "After breakfast at the hotel, embark on a half-day sightseeing tour of Bhaktapur, the 'City of Devotees.' Wander through its timeless alleys lined with ancient brick houses and intricately carved wooden windows. Highlights include Durbar Square, the Golden Gate, Palace of 55 Windows, Lion’s Gate, Nyatpola Temple (Nepal’s tallest), Bhairab Temple, Pottery Centre, and Dattatreya Temple. Later, enjoy a scenic drive to Dhulikhel—a charming hillside town offering breathtaking Himalayan views. This leg of the Nepal vacation package lets you witness authentic rural life. En route, soak in the beauty of traditional villages and terraced rice fields. Conclude the day with an overnight stay at a hotel in Dhulikhel."
+        ],
+        "Images": [
+          {
+            "src": "/images/44/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Spiritual Sights – Pashupatinath & Boudhanath",
+        "Description": [
+          "Begin with breakfast at your hotel, then enjoy a scenic drive back to Kathmandu from Dhulikhel (approx. 32 km) and check in at your hotel. In the afternoon, embark on a half-day tour starting with Pashupatinath, Nepal’s holiest Hindu temple dedicated to Lord Shiva, located on the sacred Bagmati River. While non-Hindus cannot enter the inner temple, the view from across the river offers a profound glimpse into spiritual rituals. Next, visit Boudhanath Stupa—one of the largest and most revered Buddhist stupas in the world. Return to your hotel for an overnight stay in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/44/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "Departure from Kathmandu",
+        "Description": [
+          "After breakfast at the hotel, enjoy your remaining free time at leisure—perfect for last-minute shopping or simply soaking in the peaceful ambiance of Kathmandu. Later, you will be transferred to the airport for your onward flight, carrying with you unforgettable memories from one of the most enriching 4 nights 5 days Nepal package experiences available."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      }
+    ],
+    "Name": "Discover the Magic of Nepal – Kathmandu & Dhulikhel (4 Nights / 5 Days)",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "nepal-travel-itinerary-kathmandu",
+    "Title": "4 Nights 5 Days Nepal Package – Cultural Tour Kathmandu & Dhulikhel",
+    "Description": "Book our 4 nights 5 days Nepal package to explore Kathmandu & Dhulikhel. A perfect cultural tour Nepal with temples, heritage sites & scenic views.",
+    "NoOfRatings": 20,
+    "Summary": "Beyond Nepal's rich tapestry of ancient cities, majestic Himalayas, and spiritual sanctuaries, Eaze Tours invites you to explore more of Asia's wonders. After experiencing the cultural marvels of Kathmandu and the serene beauty of Dhulikhel, consider extending your adventure. Delve into the mystical allure of Bhutan's unique culture and stunning landscapes with our curated packages. Alternatively, unwind on the pristine beaches and discover the vibrant heritage of Sri Lanka through our diverse offerings. Let Eaze Tours craft your unforgettable journey across these incredible destinations.",
+    "Overview": "This 4-nights, 5-days Nepal package unveils the captivating heart of Nepal, offering a perfect blend of cultural immersion and serene natural beauty. From the ancient UNESCO World Heritage Sites of Kathmandu's Durbar Square and sacred stupas to the tranquil hillside charm of Dhulikhel with its panoramic Himalayan vistas, this journey promises a rich tapestry of experiences. Ideal for travelers seeking nepal vacation packages, this itinerary allows you to discover Nepal's spiritual essence, artistic heritage, and breathtaking landscapes, creating memories that resonate long after you depart. It’s the perfect choice for anyone looking for a well-rounded cultural tour Nepal.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 45,
+    "Days": 5,
+    "DurationDisplay": "4 NIGHTS /5 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Welcome to Kathmandu",
+        "Description": [
+          "Upon arrival at Kathmandu Airport, you will be warmly greeted by an Eaze Tours representative with a traditional “Flower Garland” reception. You’ll then be transferred to your hotel, where you can unwind and settle in. Enjoy the rest of the day at leisure, soaking in the charm of Nepal’s capital city. Your Kathmandu holiday package begins with a comfortable and culturally rich welcome. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Spiritual & Cultural Wonders of Kathmandu",
+        "Description": [
+          "After breakfast at the hotel, begin your day with a visit to two of Kathmandu’s most revered UNESCO World Heritage Sites. First, explore Pashupatinath Temple, one of the holiest Hindu shrines dedicated to Lord Shiva, where devotees gather for sacred rituals along the Bagmati River. Then visit Boudhanath Stupa, one of the largest and most stunning stupas in the world, known for its massive dome and tranquil ambiance. After lunch (on your own), continue your sightseeing tour of Kathmandu, also known as Kantipur or the 'City of Glory.' Discover historical landmarks such as Kumari Ghar, home to the Living Goddess; Kasthamandap, built from the timber of a single tree; The Big Bell, Kal Bhairab, and more. Conclude the day with a visit to Swayambhunath Stupa, perched atop a hill with sweeping views of the Kathmandu Valley—a true highlight of any Kathmandu tour package. Overnight at hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Scenic Drive to Nagarkot – Himalayan Panorama",
+        "Description": [
+          "After breakfast at the hotel, embark on a scenic drive to Nagarkot, a serene hill station located 30 km east of Kathmandu on the valley rim. Recommended by Time Magazine as one of the best retreats, Nagarkot sits at an elevation of 2,175 meters and offers breathtaking panoramic views of the Himalayas. From this vantage point, witness five of the world’s ten highest peaks, including Mount Everest (8,848 m), Lhotse (8,516 m), Makalu (8,463 m), and Manaslu (8,163 m), among many others. The snow-capped peaks are especially mesmerizing during sunrise and sunset. Add a touch of natural grandeur to your Kathmandu Valley tour package with this unforgettable day. Overnight at hotel/resort in Nagarkot."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/3.jpeg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Nagarkot to Bhaktapur – Tranquility & Tradition",
+        "Description": [
+          "Start your day with a peaceful morning in Nagarkot, enjoying breakfast and the serene mountain atmosphere. Take a leisurely walk or simply relax amid stunning Himalayan views. In the afternoon, drive to Bhaktapur, the 'City of Devotees,' known for its preserved medieval architecture and vibrant culture. Visit highlights such as Durbar Square, the Golden Gate, Palace of 55 Windows, Nyatapola Temple, and the Lion Gate. Explore charming lanes lined with traditional homes and intricate woodwork. This enriching day offers a historical complement to your Kathmandu holiday package. After immersing yourself in Bhaktapur’s heritage, return to your hotel for an overnight stay."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "Farewell Kathmandu – Departure Day",
+        "Description": [
+          "Begin your final day in Nepal with a relaxed breakfast at the hotel. Enjoy some free time in the morning—ideal for picking up souvenirs, capturing last-minute photos, or simply taking in the peaceful ambiance of Kathmandu one last time. Depending on your flight schedule, a representative will transfer you comfortably to the airport for your onward journey. As you depart, carry with you unforgettable memories from this expertly curated Nepal tour package. We hope your journey with Eaze Tours has been enriching and look forward to welcoming you again. End of Services."
+        ],
+        "Images": [
+          {
+            "src": "/images/45/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      }
+    ],
+    "Name": "4 NIGHTS 5 DAYS KATHMANDU AND NAGARKOT – A Captivating Nepal Tour Package",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "nepal-travel-itinerary-kathmandu",
+    "Title": "Kathmandu Tour Package – 4 Nights 5 Days Nepal Trip",
+    "Description": "Explore Nepal with our 4 nights 5 days Kathmandu Valley tour package. Includes temples, Nagarkot views, heritage sites & cultural experiences.",
+    "NoOfRatings": 20,
+    "Summary": "After immersing yourself in Nepal’s timeless charm—from the cultural richness of Kathmandu to the scenic serenity of Dhulikhel—why not continue the journey? Eaze Tours offers carefully curated experiences beyond Nepal. Explore the hidden beauty and traditions of the Himalayas with our Bhutan Tour Package, or enjoy the coastal tranquility and cultural depth of the Sri Lanka Tour Package. Each destination brings its own story, flavors, and unforgettable moments. Let us help you discover more of South Asia’s magic—seamlessly and memorably.",
+    "Overview": "This 4-night, 5-day Nepal tour package unveils the captivating heart of the Himalayas, offering a perfect blend of cultural immersion and serene natural beauty. From the ancient UNESCO World Heritage Sites of Kathmandu’s Durbar Square and sacred stupas to the tranquil hillside charm of Dhulikhel with its panoramic Himalayan vistas, this journey promises a rich tapestry of experiences. Perfectly suited for those seeking a memorable Kathmandu Valley tour package, you’ll discover Nepal’s spiritual essence, artistic heritage, and breathtaking landscapes—creating memories that resonate long after you depart.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 46,
+    "Days": 8,
+    "DurationDisplay": "4 NIGHTS /5 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrive Kathmandu",
+        "Description": [
+          "Upon arrival at Tribhuvan International Airport in Kathmandu, you will be warmly welcomed with traditional flower garlands by an Eaze Tours representative and transferred to your hotel by private vehicle. After settling in and relaxing, your introduction to Nepal begins with a memorable evening featuring a Gala Nepali dinner. Enjoy authentic local cuisine accompanied by traditional Nepali drinks, followed by a vibrant cultural folk dance performance that showcases the country’s rich heritage and warm hospitality. This festive evening sets the perfect tone for your journey ahead through Nepal’s landscapes, culture, and spirituality. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Kathmandu Sightseeing Tour",
+        "Description": [
+          "After breakfast, embark on a full-day guided sightseeing tour of Kathmandu, often called Kantipur or the “City of Glory.” Visit key landmarks including Kumari Ghar, home to the Living Goddess, Kasthamandap, the Big Bell, and Kal Bhairab. Continue to the iconic Swayambhunath Stupa, a sacred Buddhist site perched on a hill with panoramic views of the Kathmandu Valley. Enjoy lunch at a quality international restaurant. In the afternoon, explore the revered Pashupatinath Temple, one of the holiest Hindu shrines, and the majestic Boudhanath Stupa, the largest in Nepal. Return to your hotel for dinner and overnight stay in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Fly to Lukla & Trek to Phakding (2,652 m)",
+        "Description": [
+          "After an early breakfast, take a scenic flight from Kathmandu to Lukla (2,827 m), the gateway to the Everest short trek package. Upon arrival, meet your trekking team and begin your trek northward. The trail descends to Chablung (2,700 m) and crosses the Tharo Kosi River via a suspension bridge. From here, enjoy your first glimpse of Kusum Kangru (6,367 m), one of the region's most challenging trekking peaks. The trail gently ascends toward Ghat (2,590 m), passing mani stones and prayer flags, before continuing on to Phakding, where you will spend the night. Total walking time is approximately 3 hours."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Phakding to Namche Bazaar [3420m]",
+        "Description": [
+          "After breakfast in Phakding, begin your scenic trek along the Dudh Kosi River, passing through lush forests and traditional Sherpa villages. Cross several suspension bridges, including the famous Hillary Bridge, and enjoy stunning views of snow-capped peaks. The trail gradually ascends through rhododendron and pine forests, reaching the entrance of Sagarmatha National Park at Monjo, where your permits are checked. After a steep and challenging final climb, you’ll arrive at Namche Bazaar (3,420 m), the vibrant heart of the Khumbu region. This bustling mountain town offers spectacular views and is an essential stop in any Everest trek package. Overnight stay in Namche Bazaar."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "Acclimatization day at Namche Bazaar",
+        "Description": [
+          "There is an optional day hike to Kunde and Khumjung villages. For this hike, we start with a steep one-hour climb to the Shyangboche airstrip (3,790 m), from where we will slowly ascend towards Khunde passing numerous chorten (stone Buddhist monuments). From Khunde we follow the trail eastwards to Khumjung, the largest village in Khumbu, at the foot of the sacred peak Khumbila. After enjoying lunch here, we will follow a steep switchback trail descending to Chhorkung (3,540 m). From here, it is a quick descent back to Namche Bazaar (5 hrs). This enriching day helps you fully absorb the culture and terrain before continuing your Everest short trek."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      },
+      {
+        "Name": "Acclimatization day at Namche Bazaar",
+        "Description": [
+          "There is an optional day hike to Kunde and Khumjung villages. For this hike, we start with a steep one-hour climb to the Shyangboche airstrip (3,790 m), from where we will slowly ascend towards Khunde passing numerous chorten (stone Buddhist monuments). From Khunde we follow the trail eastwards to Khumjung, the largest village in Khumbu, at the foot of the sacred peak Khumbila. After enjoying lunch here, we will follow a steep switchback trail descending to Chhorkung (3,540 m). From here, it is a quick descent back to Namche Bazaar (5 hrs). This enriching day helps you fully absorb the culture and terrain before continuing your Everest short trek."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/6.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 6,
+        "Day": "6"
+      },
+      {
+        "Name": "Fly from Lukla to Kathmandu",
+        "Description": [
+          "After an early breakfast, transfer to Lukla Airport for your scenic flight back to Kathmandu. If the weather is clear, enjoy breathtaking aerial views of the Himalayas, including peaks you’ve trekked beneath—an unforgettable farewell to the mountains. Upon arrival in Kathmandu, you will be transferred to your hotel. The rest of the day is free for rest, souvenir shopping, or optional sightseeing. It’s also the perfect time to book Everest short trek for your friends and family or extend your trip. Overnight stay at the hotel in Kathmandu."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/7.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 7,
+        "Day": "7"
+      },
+      {
+        "Name": "Departure from Kathmandu – Farewell Nepal",
+        "Description": [
+          "Enjoy a leisurely breakfast at the hotel. You’ll have free time until your scheduled departure transfer to Tribhuvan International Airport for your onward journey. Take this moment to reflect on your incredible experiences—from the vibrant culture of Kathmandu to the serene trails of the Himalayas. Thank you for choosing Eaze Tours to book Everest short trek and be part of your Himalayan dreams."
+        ],
+        "Images": [
+          {
+            "src": "/images/46/8.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 8,
+        "Day": "8"
+      }
+    ],
+    "Name": "EVEREST SHORT TREK (8 DAYS) – A Breathtaking Everest Trek Package",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "everest-short-trek-package",
+    "Title": "Everest Short Trek Package – 8 Days Trek to Namche",
+    "Description": "Book Everest Short Trek package for 8 days of scenic adventure. Hike through Sherpa villages, Namche Bazaar & Himalayas. Ideal short Everest trek.",
+    "NoOfRatings": 20,
+    "Summary": "The Himalayas call—and with Eaze Tours’ Everest Short Trek Package, the dream is just 8 days away. Designed for time-conscious adventurers, this trek blends rich Sherpa culture, ancient monasteries, and jaw-dropping views of Everest into one unforgettable journey. Want more Himalayan adventures? Explore our curated Nepal trekking packages or international escapes to Bhutan, Sri lanka, and beyond. Limited spots available—Contact Us Now to book your Everest trek or browse our Nepal tours for more inspiring itineraries!",
+    "Overview": "Embark on a short yet exhilarating adventure with Eaze Tours’ Everest Short Trek Package—perfect for those with limited time but a deep desire to witness the grandeur of Mt. Everest up close. Your journey begins and ends in Lukla, guiding you through charming Sherpa villages, ancient monasteries, and scenic trails surrounded by some of the world’s most breathtaking snow-capped peaks. This thoughtfully designed Everest trek package offers a perfect blend of cultural immersion and awe-inspiring Himalayan vistas.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
   }
 ]
