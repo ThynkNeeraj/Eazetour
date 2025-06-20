@@ -1090,7 +1090,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "41": {
-    main: package_41_1,
+    main: package_41_8,
     list: [
       package_41_1,
       package_41_2,
@@ -1138,7 +1138,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "44": {
-    main: package_44_5,
+    main: package_44_1,
     list: [
       package_44_5,
       package_44_4,
@@ -1148,7 +1148,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "45": {
-    main: package_45_2,
+    main: package_45_4,
     list: [
       package_45_5,
       package_45_4,
@@ -1158,7 +1158,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "46": {
-    main: package_46_2,
+    main: package_46_7,
     list: [
       package_46_5,
       package_46_4,
