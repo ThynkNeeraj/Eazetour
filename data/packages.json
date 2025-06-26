@@ -8685,5 +8685,175 @@
       "Phakding",
       "Namche Bazaar"
     ]
+  },
+  {
+    "Id": 47,
+    "Days": 9,
+    "DurationDisplay": "8 NIGHTS /9 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Airport – Negombo (8 Km / 20 min Drive)",
+        "Description": [
+          "Upon arrival at Colombo International Airport, you will be warmly welcomed by our representative. After a brief introduction, you'll be transferred to the coastal town of Negombo, known for its charming beaches and vibrant local culture. Take the rest of the day to relax and unwind after your journey. You can explore the nearby beach, enjoy fresh seafood, or simply rest at the hotel. This peaceful beginning sets the tone for your unforgettable Sri Lanka holiday package. Overnight stay in Negombo at a comfortable hotel, preparing for the exciting journey ahead."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Negombo – Dambulla – Sigiriya (147 Km / 3hrs 30mins Drive)",
+        "Description": [
+          "After breakfast, begin your journey towards Sigiriya with a stop at the famous Dambulla Cave Temple. Recognized as a UNESCO World Heritage Site, this remarkable temple complex is the largest and best-preserved in Sri Lanka. Set within five caves, the site features over 150 Buddha statues, intricate murals spanning 2,100 square meters, and ancient carvings that reflect the life of Lord Buddha. You'll also find statues of Sri Lankan kings and Hindu deities such as Vishnu and Ganesh. After exploring this spiritual masterpiece, continue to Sigiriya. Overnight stay at a hotel in Sigiriya."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Sigiriya – Polonnaruwa – Sigiriya (57 Km / 1 hr Drive)",
+        "Description": [
+          "After breakfast, depart for the ancient city of Polonnaruwa, a UNESCO World Heritage Site and a key highlight of Sri Lanka’s cultural triangle. This historic city flourished during the 12th century under King Parakramabahu, showcasing impressive ruins of royal palaces, Buddhist temples, and intricate stone carvings. Later enhanced by King Nissankamalla, Polonnaruwa stands as a testament to the island’s rich architectural and religious heritage. Enjoy lunch at a family-owned local restaurant overlooking serene paddy fields. Afterward, return to your hotel in Sigiriya for rest and relaxation. Overnight stay in Sigiriya."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Sigiriya – Kandy (90 Km / 2hrs 40mins Drive)",
+        "Description": [
+          "After breakfast, proceed to Kandy, the cultural capital of Sri Lanka. En route, enjoy scenic views of the countryside as you head into the central hills. Upon arrival, visit the sacred Temple of the Tooth Relic (Sri Dalada Maligawa), located within the royal palace complex. This revered Buddhist temple houses the sacred tooth relic of Lord Buddha and holds great historical and spiritual significance. Believed to symbolize sovereignty, the relic played a central role in the country’s governance. The city of Kandy is a UNESCO World Heritage Site. Overnight stay at a hotel in Kandy."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      },
+      {
+        "Name": "Kandy – Yala (182 Km / 4 hrs 20 mins Drive)",
+        "Description": [
+          "After breakfast, begin your journey from Kandy to Yala, located in the southeastern region of Sri Lanka. Enjoy the changing landscapes as you travel from the lush hills of Kandy to the dry lowlands of Yala. Upon arrival, check in to your hotel and spend the rest of the day at leisure. Relax and unwind in the tranquil surroundings, preparing for the wildlife adventure ahead. Yala is renowned for its national park and diverse wildlife, including leopards and elephants. Overnight stay at a hotel in Yala."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/5.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 5,
+        "Day": "5"
+      },
+      {
+        "Name": "Yala – Half Day Safari Adventure",
+        "Description": [
+          "Begin your day early with a packed breakfast and enter Yala National Park by 6 a.m. for an exhilarating half-day safari. Yala, Sri Lanka’s second-largest and most visited national park, offers diverse landscapes—ranging from forests and grasslands to lagoons and beaches—supporting a rich array of wildlife. The park is home to over 215 bird species, including six endemics, and around 90 species of water birds, many of which are seasonal migrants. Keep your eyes open for elephants, leopards, sloth bears, crocodiles, and more. After an unforgettable wildlife experience, return to the hotel to relax. Overnight stay in Yala."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/6.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 6,
+        "Day": "6"
+      },
+      {
+        "Name": "Yala – Bentota",
+        "Description": [
+          "After breakfast, embark on a scenic drive to Bentota, a charming beachside town on Sri Lanka’s southwest coast. Along the way, stop at the Kosgoda Turtle Hatchery, run by the Wildlife Protection Society. Here, you can see tanks filled with baby turtles and learn about conservation efforts to protect these endangered creatures. Hatchlings are typically released into the sea at night for safety. Later, visit a local cinnamon factory to discover the story of Ceylon cinnamon, native to Sri Lanka. Learn about its historical significance, processing methods, and diverse uses. Dinner and overnight stay at a hotel in Bentota."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/7.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 7,
+        "Day": "7"
+      },
+      {
+        "Name": "Bentota – Madu River Safari",
+        "Description": [
+          "After breakfast, enjoy a serene boat safari on the Madu River, located in Balapitiya along Sri Lanka’s southern coast. This beautiful lagoon, which opens to the Indian Ocean, is a biodiverse wetland ecosystem and was declared a Ramsar site in 2004. As you cruise through the mangrove tunnels, witness the rich aquatic life and spot various bird species, monitor lizards, and other animals that thrive in this unique habitat. The calm waters and natural beauty offer a peaceful and immersive experience in Sri Lanka’s coastal ecology. Return to the hotel. Dinner and overnight stay at a hotel in Bentota."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/8.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 8,
+        "Day": "8"
+      },
+      {
+        "Name": "Bentota – Colombo – Departure",
+        "Description": [
+          "After breakfast, check out from your hotel and drive to Colombo, Sri Lanka’s bustling capital city. In the afternoon, explore Colombo’s cultural highlights. Begin with a visit to the iconic Red Mosque (Jami-Ul-Alfar Mosque), one of the oldest and most distinctive mosques in the city, known for its striking red-and-white patterned architecture. Located in the busy Pettah area, it’s a revered place of worship and a popular tourist attraction.Next, visit the Gangaramaya Temple, a significant Buddhist temple blending traditional and modern architectural styles. Situated near Beira Lake, it offers a rich spiritual and cultural experience. Later, proceed to the airport for your departure."
+        ],
+        "Images": [
+          {
+            "src": "/images/47/9.jpg",
+            "alt": "Mughal architecture"
+          }
+        ],
+        "Id": 9,
+        "Day": "9"
+      }
+    ],
+    "Name": "EVEREST SHORT TREK (8 DAYS) – A Breathtaking Everest Trek Package",
+    "Tags": [
+      "cultural",
+      "traditional "
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "everest-short-trek-package",
+    "Title": "Everest Short Trek Package – 8 Days Trek to Namche",
+    "Description": "Book Everest Short Trek package for 8 days of scenic adventure. Hike through Sherpa villages, Namche Bazaar & Himalayas. Ideal short Everest trek.",
+    "NoOfRatings": 20,
+    "Summary": "Discover the magic of Sri Lanka with Eaze Tours’ Magical Sri Lanka Tour Programme, a 9-day journey that takes you through the island's most captivating landscapes, historic landmarks, and cultural gems. Begin your adventure in the beach town of Negombo, then explore ancient wonders like the Dambulla Cave Temple and the ruined city of Polonnaruwa. Marvel at the iconic Temple of the Tooth Relic in Kandy, and experience the thrill of a wildlife safari in Yala National Park. Enjoy the coastal charm of Bentota with visits to the Kosgoda Turtle Hatchery, a traditional cinnamon factory, and a scenic Madu River boat safari. Conclude your journey in Colombo with visits to the stunning Red Mosque and Gangaramaya Temple. This well-balanced itinerary blends spirituality, history, nature, and beachside relaxation—all with seamless travel arrangements and expert guidance. Perfect for families, couples, and explorers seeking an immersive Sri Lankan experience through carefully curated Sri Lanka vacation packages.",
+    "Overview": "Embark on a short yet exhilarating adventure with Eaze Tours’ Everest Short Trek Package—perfect for those with limited time but a deep desire to witness the grandeur of Mt. Everest up close. Your journey begins and ends in Lukla, guiding you through charming Sherpa villages, ancient monasteries, and scenic trails surrounded by some of the world’s most breathtaking snow-capped peaks. This thoughtfully designed Everest trek package offers a perfect blend of cultural immersion and awe-inspiring Himalayan vistas.",
+    "Ratings": 5.0,
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi"
+      },
+      "Geo": {
+        "Line": "27.931 86.825"
+      }
+    },
+    "TouristType": [
+      "Trekking Enthusiasts",
+      "Adventure Seekers",
+      "Himalayan Explorers",
+      "Nature Lovers"
+    ],
+    "TourCompanion": {
+      "Name": "Certified Trek Guide Team",
+      "Description": "Experienced Sherpa guides, porters, and safety crew with first aid and altitude training"
+    },
+    "IncludesAttractions": [
+      "Kathmandu",
+      "Lukla",
+      "Phakding",
+      "Namche Bazaar"
+    ]
   }
 ]
