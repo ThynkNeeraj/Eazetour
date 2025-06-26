@@ -486,6 +486,15 @@ import package_46_5 from "../public/images/46/5.jpg";
 import package_46_6 from "../public/images/46/6.jpg";
 import package_46_7 from "../public/images/46/7.jpg";
 import package_46_8 from "../public/images/46/8.jpg";
+import package_47_1 from "../public/images/47/1.jpg";
+import package_47_2 from "../public/images/47/2.jpg";
+import package_47_3 from "../public/images/47/3.jpg";
+import package_47_4 from "../public/images/47/4.jpg";
+import package_47_5 from "../public/images/47/5.jpg";
+import package_47_6 from "../public/images/47/6.jpg";
+import package_47_7 from "../public/images/47/7.jpg";
+import package_47_8 from "../public/images/47/8.jpg";
+import package_47_9 from "../public/images/47/9.jpg";
 
 interface IPackageImageProp {
   source: number;
@@ -1168,6 +1177,20 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
       package_46_6,
       package_46_8,
       package_46_7,
+    ],
+  },
+  "47": {
+    main: package_47_7,
+    list: [
+      package_47_5,
+      package_47_4,
+      package_47_3,
+      package_47_1,
+      package_47_2,
+      package_47_6,
+      package_47_8,
+      package_47_7,
+      package_47_9,
     ],
   },
 };
