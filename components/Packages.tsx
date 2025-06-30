@@ -25,6 +25,7 @@ function PackagesList() {
     ["wildlife", "Wildlife Tours"],
     ["bhutan", "Bhutan Tours"],
     ["srilanka", "Sri Lanka Tours"],
+    ["nepal", "Nepal Tours"],
   ]);
 
   useEffect(() => {
@@ -62,9 +63,8 @@ function PackagesList() {
   }
 
   const getTabClass = (tab: string) => {
-    return `tab px-[10px] ${
-      tabName === tab ? "tab-active !text-[#fff] !bg-[#025C7A]" : ""
-    }`;
+    return `tab px-[10px] ${tabName === tab ? "tab-active !text-[#fff] !bg-[#025C7A]" : ""
+      }`;
   };
 
   return (
@@ -76,9 +76,6 @@ function PackagesList() {
         </button>
         <button role="tab" className={getTabClass("adventure")} onClick={() => handleTabClick("adventure")}>
           Adventure Tours
-        </button>
-        <button role="tab" className={getTabClass("ayurveda")} onClick={() => handleTabClick("ayurveda")}>
-          Ayurveda
         </button>
         <button role="tab" className={getTabClass("cultural")} onClick={() => handleTabClick("cultural")}>
           Cultural Tours
@@ -103,6 +100,9 @@ function PackagesList() {
         </button>
         <button role="tab" className={getTabClass("srilanka")} onClick={() => handleTabClick("srilanka")}>
           Sri Lanka Tours
+        </button>
+        <button role="tab" className={getTabClass("nepal")} onClick={() => handleTabClick("nepal")}>
+          Nepal Tours
         </button>
       </div>
 
