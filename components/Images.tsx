@@ -1233,7 +1233,7 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
     ],
   },
   "50": {
-    main: package_50_1,
+    main: package_50_5,
     list: [
       package_50_1,
       package_50_2,
