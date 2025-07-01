@@ -7030,10 +7030,10 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "5.9167 79.7167 9.8333 81.9167"
       }
     },
     "TouristType": [
@@ -7042,15 +7042,21 @@
       "Family Travelers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Certified Local Guide",
+      "Description": "Experienced guide with knowledge of Sri Lankan history, culture, and nature."
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Colombo",
+      "Negombo",
+      "Pinnawala",
+      "Sigiriya",
+      "Anuradhapura",
+      "Aukana",
+      "Kandy via Matale",
+      "Ramdoda",
+      "Nuwara Eliya",
+      "Hikkaduwa",
+      "Galle"
     ]
   },
   {
@@ -7217,27 +7223,31 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "26.7076 88.7465 28.3114 92.1252"
       }
     },
     "TouristType": [
       "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Spiritual Seekers",
+      "Nature Enthusiasts",
+      "Heritage Travelers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Certified Bhutanese Local Guide",
+      "Description": "Experienced guide licensed by the Tourism Council of Bhutan with cultural and historical expertise"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Paro",
+      "Leisure Day in Paro",
+      "Tiger’s Nest Monastery",
+      "Kyichu Lhakhang",
+      "Thimphu",
+      "Thimphu Sightseeing",
+      "Gangtey Valley",
+      "Punakha"
     ]
   },
   {
@@ -7440,27 +7450,33 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "26.7076 88.7465 28.3114 92.1252"
       }
     },
     "TouristType": [
       "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "History Lovers",
+      "Spiritual Seekers",
+      "Nature Enthusiasts"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Certified Bhutan Cultural Guide",
+      "Description": "Experienced Bhutanese tour guide with deep knowledge of heritage, temples, and customs"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Paro",
+      "Thimphu",
+      "Gangtey",
+      "Bumthang",
+      "Trongsa",
+      "Punakha",
+      "Chimi Lhakhang",
+      "Simtokha Dzong",
+      "Tsela Namsum",
+      "Zhabdrung Ngawang Namgyel"
     ]
   },
   {
@@ -7557,7 +7573,7 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
         "Line": "28.6448 77.216721"
@@ -8923,6 +8939,109 @@
     "NoOfRatings": 20,
     "Summary": "Discover the magic of Sri Lanka with Eaze Tours’ Magical Sri Lanka Tour Programme, a 9-day journey that takes you through the island's most captivating landscapes, historic landmarks, and cultural gems. Begin your adventure in the beach town of Negombo, then explore ancient wonders like the Dambulla Cave Temple and the ruined city of Polonnaruwa. Marvel at the iconic Temple of the Tooth Relic in Kandy, and experience the thrill of a wildlife safari in Yala National Park. Enjoy the coastal charm of Bentota with visits to the Kosgoda Turtle Hatchery, a traditional cinnamon factory, and a scenic Madu River boat safari. Conclude your journey in Colombo with visits to the stunning Red Mosque and Gangaramaya Temple. This well-balanced itinerary blends spirituality, history, nature, and beachside relaxation—all with seamless travel arrangements and expert guidance. Perfect for families, couples, and explorers seeking an immersive Sri Lankan experience through carefully curated Sri Lanka vacation packages.",
     "Overview": "Embark on a short yet exhilarating adventure with Eaze Tours’ Everest Short Trek Package—perfect for those with limited time but a deep desire to witness the grandeur of Mt. Everest up close. Your journey begins and ends in Lukla, guiding you through charming Sherpa villages, ancient monasteries, and scenic trails surrounded by some of the world’s most breathtaking snow-capped peaks. This thoughtfully designed Everest trek package offers a perfect blend of cultural immersion and awe-inspiring Himalayan vistas.",
+    "Ratings": 5.0,
+    "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
+    "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
+    "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
+    "Location": {
+      "Address": {
+        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+      },
+      "Geo": {
+        "Line": "28.6448 77.216721"
+      }
+    },
+    "TouristType": [
+      "Cultural Explorers",
+      "History Enthusiasts",
+      "Family Travelers"
+    ],
+    "TourCompanion": {
+      "Name": "Golden Triangle Support Team",
+      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+    },
+    "IncludesAttractions": [
+      "Taj Mahal, Agra",
+      "Qutub Minar, Delhi",
+      "Jaipur City Palace",
+      "Amber Fort, Jaipur",
+      "Humayun's Tomb, Delhi"
+    ]
+  },
+  {
+    "Id": 48,
+    "Days": 4,
+    "DurationDisplay": "3 NIGHTS /4 DAYS",
+    "Itinerary": [
+      {
+        "Name": "Arrival – Transfer – Sunset Cruise",
+        "Description": [
+          "Arrive at Velana International Airport, where your Maldives honeymoon begins with a scenic 35-minute speedboat ride to the luxurious Coco Bodu Hithi Resort. Check into your elegant Island Villa, complete with a private pool and serene ocean views. Take time to relax and settle in before heading out on a romantic sunset cruise across turquoise waters. Watch the sky turn golden as you toast to love. End the evening with a gourmet dinner, either onboard or at the resort’s exquisite restaurant."
+        ],
+        "Images": [
+          {
+            "src": "/images/48/1.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 1,
+        "Day": "1"
+      },
+      {
+        "Name": "Island Villa Leisure – Vaadhoo’s Sea of Stars",
+        "Description": [
+          "Start your day with a delicious breakfast surrounded by ocean views. Spend the morning at your own pace—relax by your private pool, take a dip in the lagoon, or snorkel around the vibrant house reef. In the evening, experience the enchanting natural wonder of Vaadhoo Island’s Sea of Stars, where bioluminescent plankton light up the shoreline with a magical blue glow. Return to the resort for a romantic dinner, reflecting on a day filled with beauty, wonder, and unforgettable memories."
+        ],
+        "Images": [
+          {
+            "src": "/images/48/2.jpg",
+            "alt": "Red fort"
+          }
+        ],
+        "Id": 2,
+        "Day": "2"
+      },
+      {
+        "Name": "Transfer to Water Villa – Dolphin Watching",
+        "Description": [
+          "Begin the day with a leisurely breakfast before transitioning to your stunning Water Villa, complete with a private pool and direct lagoon access. Embrace uninterrupted ocean views and the ultimate overwater luxury. In the afternoon, embark on an exciting dolphin-watching cruise—watch these playful creatures swim alongside your boat in their natural habitat. Spend the rest of the day your way: unwind on your sun deck, snorkel in the turquoise waters, or indulge in a rejuvenating couples’ spa treatment at the resort."
+        ],
+        "Images": [
+          {
+            "src": "/images/48/3.jpg",
+            "alt": "Hawa Mahal"
+          }
+        ],
+        "Id": 3,
+        "Day": "3"
+      },
+      {
+        "Name": "Leisure & Departure",
+        "Description": [
+          "Savor your final morning in paradise with a relaxed breakfast overlooking the lagoon. Take in the serene island atmosphere one last time—whether it’s a quiet swim, a snorkeling session in the clear waters, or simply soaking in the views from your villa deck. After check-out, a scenic speedboat transfer will take you back to Malé International Airport. Leave with hearts full of memories, having experienced the perfect blend of romance, luxury, and natural beauty on your unforgettable Maldives honeymoon."
+        ],
+        "Images": [
+          {
+            "src": "/images/48/4.jpg",
+            "alt": "Elephant ride"
+          }
+        ],
+        "Id": 4,
+        "Day": "4"
+      }
+    ],
+    "Name": "Coco Bodu Hithi Honeymoon Delight – 3N/4D",
+    "Tags": [
+      "cultural",
+      "srilanka"
+    ],
+    "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
+    "Uri": "coco-bodu-hithi-honeymoon-delight",
+    "Title": "Magical Sri Lanka Tour – Holiday & Vacation Packages",
+    "Description": "Explore Sri Lanka with our 9-day Magical Tour—perfect holiday and vacation package with culture, wildlife, beaches & guided travel. Book now with Eaze Tours!",
+    "NoOfRatings": 20,
+    "Summary": "Embrace pure island bliss with our Coco Bodu Hithi Maldives Honeymoon Package—where overwater luxury, glowing beaches, and sunset cruises create unforgettable memories. Designed for couples who seek both serenity and adventure, this curated escape blends comfort, romance, and once-in-a-lifetime experiences. At Eaze Tours, we specialize in crafting magical honeymoons to the world’s most enchanting destinations. Looking for more romantic adventures? Explore our exclusive honeymoon packages to Bali, Thailand, and the Seychelles. Book your Maldives escape today or discover more dreamy journeys with Eaze Tours.",
+    "Overview": "Escape to a world of romance and tropical elegance with our exclusive Maldives Honeymoon Package at Coco Bodu Hithi Resort. Spend 3 magical nights surrounded by crystal-clear waters, pristine white sands, and lush island beauty. Your stay includes a luxurious villa with a private pool, designed to offer both comfort and seclusion. Enjoy rejuvenating spa treatments, unforgettable sunset cruises, and intimate beachfront dinners under the stars. Explore the vibrant marine life with snorkeling or simply unwind by the lagoon. Whether you’re seeking tranquil moments or island adventures, this package is tailored to deliver the perfect balance of both. All meals and transfers are included, ensuring a seamless and worry-free escape. From candlelit experiences to curated couple’s activities, every detail is crafted with love—making it an ideal start to your forever. Let Eaze Tours make your honeymoon unforgettable with this handpicked Maldivian paradise retreat.",
     "Ratings": 5.0,
     "AdditionalInformation": "<li>Group Size: Small group tours for personalized attention.</li><li>Departure Dates: Multiple departures throughout the year; please check the schedule.</li><li>Booking: Advance booking is recommended to secure your spot.</li><li>Payment: Flexible payment options available; contact us for details.</li><li>All sightseeing rides are arranged as per the itinerary</li><li>The package can be modified to suit client interests</li>",
     "WhatsIncluded": "<li>Accommodation: 6 nights in 3-star hotels with daily breakfast</li><li>Standard check-in and check-out at 12:00 noon</li><li>Daily breakfast and dinner provided at the hotel</li><li>Transportation: Private air-conditioned vehicle for all transfers and sightseeing</li><li>Guided Tours: Professional English-speaking guides at each destination</li><li>Monument Entries: Admission fees to all specified attractions</li><li>2 water bottles per guest per day during tours</li><li>One monument entrance fee</li><li>Welcome garland at arrival at airport/railway station</li>",
