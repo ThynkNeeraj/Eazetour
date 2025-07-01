@@ -495,6 +495,10 @@ import package_47_6 from "../public/images/47/6.jpg";
 import package_47_7 from "../public/images/47/7.jpg";
 import package_47_8 from "../public/images/47/8.jpg";
 import package_47_9 from "../public/images/47/9.jpg";
+import package_48_1 from "../public/images/48/1.jpg";
+import package_48_2 from "../public/images/48/2.jpg";
+import package_48_3 from "../public/images/48/3.jpg";
+import package_48_4 from "../public/images/48/4.jpg";
 
 interface IPackageImageProp {
   source: number;
@@ -1191,6 +1195,15 @@ const package_images: { [key: string]: { main: StaticImageData; list: Array<Stat
       package_47_8,
       package_47_7,
       package_47_9,
+    ],
+  },
+  "48": {
+    main: package_48_2,
+    list: [
+      package_48_1,
+      package_48_2,
+      package_48_3,
+      package_48_4,
     ],
   },
 };
