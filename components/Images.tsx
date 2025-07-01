@@ -510,11 +510,11 @@ import package_50_3 from "../public/images/50/3.jpg";
 import package_50_4 from "../public/images/50/4.jpg";
 import package_50_5 from "../public/images/50/5.jpg";
 import package_50_6 from "../public/images/50/6.jpg";
-import package_51_1 from "../public/images/50/1.jpg";
-import package_51_2 from "../public/images/50/2.jpg";
-import package_51_3 from "../public/images/50/3.jpg";
-import package_51_4 from "../public/images/50/4.jpg";
-import package_51_5 from "../public/images/50/5.jpg";
+import package_51_1 from "../public/images/51/1.jpg";
+import package_51_2 from "../public/images/51/2.jpg";
+import package_51_3 from "../public/images/51/3.jpg";
+import package_51_4 from "../public/images/51/4.jpg";
+import package_51_5 from "../public/images/51/5.jpg";
 
 interface IPackageImageProp {
   source: number;
