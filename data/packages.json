@@ -7037,9 +7037,10 @@
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Family Travelers",
+      "Couples",
+      "Nature Enthusiasts",
+      "Cultural Explorers"
     ],
     "TourCompanion": {
       "Name": "Certified Local Guide",
@@ -7576,24 +7577,27 @@
         "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "26.7076 88.7465 28.3114 92.1252"
       }
     },
     "TouristType": [
       "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "History Lovers",
+      "Spiritual Seekers",
+      "Nature Enthusiasts"
     ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
       "Description": "Experienced local guides, transportation, and assistance throughout the tour"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Nuwara Eliya",
+      "Pinnawala",
+      "Gregory Lake",
+      "Bentota",
+      "Sita Amman Temple",
+      "Galle",
+      "Colombo"
     ]
   },
   {
@@ -7768,27 +7772,47 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "25.5929 82.9629 27.6844 85.3240"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Buddhist Pilgrims",
+      "Spiritual Travelers",
+      "Cultural Heritage Enthusiasts"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Buddhist Circuit Tour Guide",
+      "Description": "Qualified spiritual guide knowledgeable in Buddhist history and heritage sites"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Delhi",
+      "Jama Masjid",
+      "Red Fort",
+      "Raj Ghat",
+      "Chandni Chowk",
+      "Qutab Minar",
+      "Humayun’s Tomb",
+      "India Gate",
+      "Varanasi",
+      "Dashashwamedh Ghat",
+      "Ganga Aarti",
+      "Ganges River",
+      "Sarnath",
+      "Bodhgaya",
+      "Ashoka Pillar",
+      "Rajgir",
+      "Nalanda",
+      "Gridhakuta Hill",
+      "Kushinagar",
+      "Vaishali",
+      "Lumbini",
+      "Nepal",
+      "Sravasti",
+      "Kapilvastu",
+      "Gorakhpur"
     ]
   },
   {
@@ -8033,27 +8057,33 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.9881 86.9250"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Trekking Enthusiasts",
+      "Adventure Seekers",
+      "Nature Explorers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "EBC Trek Support Team",
+      "Description": "Licensed Sherpa guide, porters, safety equipment, and oxygen support"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Lukla",
+      "Phakding",
+      "Namche Bazaar",
+      "Thyangboche",
+      "Dingboche",
+      "Dzongla",
+      "Lobuche",
+      "Gorak Shep",
+      "Everest Base Camp",
+      "Pheriche"
     ]
   },
   {
@@ -8180,7 +8210,7 @@
       "nepal"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
-    "Uri": "nepal-travel-itinerary",
+    "Uri": "nepal-travel-itinerary-kathmandu",
     "Title": "Nepal Travel Itinerary – Kathmandu, Chitwan & Pokhara Tour",
     "Description": "Explore Nepal with our 7 Nights/8 Days Kathmandu, Chitwan & Pokhara tour. A perfect Nepal travel itinerary blending culture, wildlife & Himalayan beauty.",
     "NoOfRatings": 20,
@@ -8192,27 +8222,25 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.3 83.9 28.6 85.4"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Culture Enthusiasts",
+      "Wildlife Lovers",
+      "Leisure Travelers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Nepal Tour Guide Team",
+      "Description": "Friendly, licensed tour guides with in-depth knowledge of Nepal's culture, nature and heritage"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Chitwan National Park",
+      "Pokhara"
     ]
   },
   {
@@ -8367,7 +8395,7 @@
       "nepal"
     ],
     "LocationDescription": "Delhi\u2013 Agra\u2013 Jaipur\u2013 Delhi",
-    "Uri": "nepal-classic-tour-package",
+    "Uri": "kathmandu-chitwan-pokhara-tour",
     "Title": "Nepal Classic Tour – 10 Days Nepal Travel Package",
     "Description": "Explore Nepal with our 10-day Nepal Classic Tour. A perfect Nepal travel package covering Kathmandu, Chitwan, Pokhara & Lumbini. Book your trip today!",
     "NoOfRatings": 20,
@@ -8379,27 +8407,26 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.5 83.3 28.6 85.4"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Cultural Travelers",
+      "Wildlife Lovers",
+      "Spiritual Tourists"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Cultural Tour Guide",
+      "Description": "Experienced English-speaking guide with local insights and historical knowledge"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Chitwan National Park",
+      "Pokhara Lakeside",
+      "Lumbini – Birthplace of Buddha"
     ]
   },
   {
@@ -8496,27 +8523,29 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.3 83.9 28.6 85.4"
       }
     },
     "TouristType": [
       "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Heritage Enthusiasts",
+      "Spiritual Seekers",
+      "Nature Lovers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "none",
+      "Description": "none"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Patan",
+      "Bhaktapur Heritage",
+      "Dhulikhel",
+      "Pashupatinath",
+      "Boudhanath"
     ]
   },
   {
@@ -8613,27 +8642,26 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.3 83.9 28.6 85.4"
       }
     },
     "TouristType": [
       "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Heritage Seekers",
+      "Spiritual Travelers",
+      "Nature Lovers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "none",
+      "Description": "none"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Nagarkot",
+      "Bhaktapur"
     ]
   },
   {
@@ -8772,27 +8800,27 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "27.931 86.825"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Trekking Enthusiasts",
+      "Adventure Seekers",
+      "Himalayan Explorers",
+      "Nature Lovers"
     ],
     "TourCompanion": {
-      "Name": "Golden Triangle Support Team",
-      "Description": "Experienced local guides, transportation, and assistance throughout the tour"
+      "Name": "Certified Trek Guide Team",
+      "Description": "Experienced Sherpa guides, porters, and safety crew with first aid and altitude training"
     },
     "IncludesAttractions": [
-      "Taj Mahal, Agra",
-      "Qutub Minar, Delhi",
-      "Jaipur City Palace",
-      "Amber Fort, Jaipur",
-      "Humayun's Tomb, Delhi"
+      "Kathmandu",
+      "Lukla",
+      "Phakding",
+      "Namche Bazaar"
     ]
   },
   {
@@ -9048,16 +9076,16 @@
     "WhatsExcluded": "<li>Personal expenses (telephone, tips, minibar, extra beverages, meals beyond breakfast).</li><li>Airfare, visa fees, and any medical/hospitalization or evacuation expenses.</li><li>Tips for drivers, guides, or restaurant staff.</li><li>Any expenses not listed above.</li>",
     "Location": {
       "Address": {
-        "AddressRegion": "Delhi, Rajasthan, Uttar Pradesh"
+        "AddressRegion": "Delhi"
       },
       "Geo": {
-        "Line": "28.6448 77.216721"
+        "Line": "4.3645 73.4246"
       }
     },
     "TouristType": [
-      "Cultural Explorers",
-      "History Enthusiasts",
-      "Family Travelers"
+      "Honeymooners",
+      "Couples",
+      "Luxury Travelers"
     ],
     "TourCompanion": {
       "Name": "Golden Triangle Support Team",
