@@ -1,5 +1,84 @@
 [
   {
+    "url": "top-beach-destinations-in-south-india",
+    "title": "Top Beach Destinations in South India | Eaze Tours",
+    "page_heading": "Top Beach Destinations in South India for a Relaxing Holiday",
+    "description": "Explore peaceful beaches in South India—golden sands, calm waters & relaxing vibes. Plan your perfect getaway with Eaze Tours.",
+    "image": "/images/blogs/main_image/Destinations_in_South_India.png",
+    "feature_image": "/images/blogs/feature_image/Destinations_in_South_India.jpg",
+    "structure": {
+      "introduction": {
+        "content": "When most people think about beaches in India, their mind goes straight to Goa. But here’s a little secret: South India is home to some of the most {{LINK:beach_package:exotic beaches in India}}, and they’re way more peaceful. Think golden sands, warm breezes, fresh coconut water, and not a single worry in sight. If you’re dreaming of a quiet seaside escape where the sea sings you to sleep and the sun kisses your skin gently, not the harsh kind, South India is calling.",
+        "links": [
+          {
+            "key": "beach_package",
+            "text": "exotic beaches in India",
+            "url": "/packages/beaches-delhi-cochin-kovalam-trivendrum-delhi-tour-india"
+          }
+        ]
+      },
+      "main_sections": [
+        {
+          "heading": "Mahabalipuram – History by the Sea",
+          "content": "Mahabalipuram is one of those rare places where you can feel the past and present meet. On one side, you’ve got the stunning Shore Temple standing tall against the waves, and on the other, a stretch of beach that invites you to take your sandals off and just be. You can walk for miles, stop for fried fish from a beach shack, or just sit and watch the sky change colours. It’s calm, uncrowded, and the kind of place that makes you forget you even have a phone."
+        },
+        {
+          "heading": "Pondicherry – French Flavour, Indian Soul",
+          "content": "Now let’s talk about Pondicherry. There’s something about this town—the quiet lanes, the pastel houses, the aroma of baked goods mixing with masala chai. And the beaches? Just as charming. Promenade Beach is great for evening walks, while Paradise Beach is a short boat ride away and feels like a little private world. If your idea of relaxing is a bit of yoga, a bit of swimming, and a lot of cafe hopping, Pondicherry has you covered."
+        },
+        {
+          "heading": "Kumarakom – The Backwater Dream",
+          "content": "Okay, it’s not your traditional beach, but Kumarakom deserves a spot here. Tucked along Kerala’s coast, this sleepy town is famous for its backwaters. Imagine lounging on a houseboat, gliding through palm-lined canals, sipping chai as birds fly overhead. It's the kind of slow travel that stays with you forever. It’s one of the most exotic beaches in India if you redefine beaches as places where water and peace go hand in hand."
+        },
+        {
+          "heading": "Marari Beach – The Art of Doing Nothing",
+          "content": "If you want to disappear for a bit and recharge, head to Marari Beach. No big resorts, no beach parties—just waves, fishermen, and time. This beach isn’t trying to impress anyone, and that’s what makes it so special. Bring a book, forget your shoes, and just let your holiday unfold one nap at a time."
+        },
+        {
+          "heading": "Kovalam – The Wellness Coast",
+          "content": "Kovalam is where the sun meets the soul. Famous for its lighthouse and crescent-shaped beach, it’s a great spot if you want to mix your beach days with Ayurvedic massages and fresh seafood. There’s something deeply soothing about this place—you come tired, and leave glowing. It’s also one of the most exotic beaches in India where you can swim in the morning, get a massage by noon, and enjoy a seafood feast by sunset."
+        },
+        {
+          "heading": "Why South India’s Beaches Feel Different",
+          "content": "Unlike the usual party spots, the southern coast is about slowing down. It's ideal for couples, solo travellers, and even families who want more peace, less rush. These beaches aren’t loud. They whisper. And in that whisper, you’ll find what a true holiday feels like."
+        }
+      ],
+      "conclusion": {
+        "heading": "Ready to Experience the Real Coastal India?",
+        "content": "Let your next beach holiday be more than just sand and sun. Discover soul-soothing shores, peaceful towns, and unforgettable moments. Explore handpicked South India tour packages now at {{LINK:home_page:Eaze Tours}} – where every journey feels like coming home.",
+        "links": [
+          {
+            "key": "home_page",
+            "text": "Eaze Tours",
+            "url": "https://www.eazetours.com/"
+          }
+        ]
+      }
+    },
+    "faq": [
+      {
+        "question": "What are the best beach destinations in South India for a peaceful holiday?",
+        "answer": "Some of the most serene beach spots include Mahabalipuram, Pondicherry, Marari Beach, Kovalam, and Kumarakom's backwaters."
+      },
+      {
+        "question": "When is the best time to visit South Indian beaches?",
+        "answer": "The ideal time is between October and March, when the weather is pleasant and perfect for beach activities and sightseeing."
+      },
+      {
+        "question": "Are these South Indian beaches suitable for family vacations?",
+        "answer": "Yes, most of these destinations are family-friendly, offering safe beaches, relaxed atmospheres, and plenty of cultural experiences."
+      },
+      {
+        "question": "Can I find wellness or Ayurvedic retreats near these beaches?",
+        "answer": "Absolutely. Places like Kovalam and Marari are known for authentic Ayurvedic treatments and spa experiences by the sea."
+      },
+      {
+        "question": "How can I book a South India beach tour package with Eaze Tours?",
+        "answer": "You can explore and book curated tour packages directly through the Eaze Tours website or contact their team for a customized itinerary."
+      }
+    ]
+  },
+  {
     "url": "bhutan-belongs-on-your-bucket-list",
     "title": "Why Bhutan Belongs on Your Bucket List | Travel Guide",
     "page_heading": "Why Bhutan Should Be on Every Traveler’s Bucket List",
