@@ -28,7 +28,7 @@ function BlogSummaryCard({ blog }: IBlogProp) {
 
           <p className="text-[22px] text-[#04000B] line-clamp-2 font-semibold hover:text-[#6E9753]">
             <Link href={getPackageHref(blog.url)} passHref>
-              {blog.title}
+              {blog.page_heading}
             </Link>
           </p>
           <div>
