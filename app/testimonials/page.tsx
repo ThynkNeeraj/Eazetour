@@ -1,6 +1,6 @@
-import testimonialData from "../../data/testimonials.json";
-import Testimonial from "../../components/Testimonial";
-import TestimonialVideoSection from "../../components/client/TestimonialVideoSection";
+import testimonialData from "../../../data/testimonials.json";
+import Testimonial from "../../../components/Testimonial";
+import TestimonialVideoSection from "../../../components/client/TestimonialVideoSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -14,7 +14,7 @@ export default function Testimonials() {
   return (
     <div>
       <div
-        className="relative mt-[150px] max-w-[1280px] mx-8 mb-6 h-[480px] rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
+        className="relative mt-[150px] max-w-[1280px] mx-8 h-[480px] mb-6 rounded-[23px] overflow-hidden flex items-center justify-start p-[20px] sm:p-[80px] bg-cover bg-center"
         style={{ backgroundImage: 'url("/images/gallery/5.jpg")' }}
       >
         {/* Background overlay */}
@@ -29,10 +29,8 @@ export default function Testimonials() {
         </div>
       </div>
 
-      
-  {/* Video Section */}
-      <TestimonialVideoSection />
-
+      {/* Video Section */}
+      <TestimonialVideoSection currentLocale="en" />
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 m-1 place-items-center my-12 mx-8">
         {testimonials.map(testimonial => (
