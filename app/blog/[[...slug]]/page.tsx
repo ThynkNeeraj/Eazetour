@@ -1,10 +1,10 @@
-import BlogsList from "../../../components/Blogs";
-import BlogDetail from "../../../components/BlogDetail";
+import BlogsList from "../../../../components/Blogs";
+import BlogDetail from "../../../../components/BlogDetail";
 import { notFound } from "next/navigation";
-import blogData from "../../../data/blog-structure.json";
+import blogData from "../../../../data/blog-structure.json";
 import { Metadata } from "next";
 import Script from "next/script";
-import { IBlogDataType } from "../../../types/Common"; // adjust import path if needed
+import { IBlogDataType } from "../../../../types/Common"; // adjust import path if needed
 
 type Params = {
   params: Promise<{
@@ -56,12 +56,12 @@ export default async function Blogs({ params }: { params: { slug?: string[] } })
           ? {
               "@context": "https://schema.org",
               "@type": "FAQPage",
-              "mainEntity": blog.faq.map(faqItem => ({
+              mainEntity: blog.faq.map(faqItem => ({
                 "@type": "Question",
-                "name": faqItem.question,
-                "acceptedAnswer": {
+                name: faqItem.question,
+                acceptedAnswer: {
                   "@type": "Answer",
-                  "text": faqItem.answer,
+                  text: faqItem.answer,
                 },
               })),
             }
